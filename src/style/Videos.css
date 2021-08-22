@@ -1,0 +1,20 @@
+.video_center {
+    text-align: center;
+    background-color: rgb(243, 239, 239);;
+}
+
+.container_video {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.box_video {
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(100, 100, 102);
+    border: 1px solid rgb(231, 228, 228);
+}

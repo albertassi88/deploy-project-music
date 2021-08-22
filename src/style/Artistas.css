@@ -1,0 +1,18 @@
+.container_artistas {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    padding: 10px;
+}
+
+.text_box {
+    padding: 10px;
+    display: flex;
+    font-size: 18px; 
+}
+
+.img_box {
+    padding: 5px;
+    max-width: 50vw;
+    max-height: 40vh;
+}

@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;    
+}
+
+.container_home {
+    background-image: url('../images/show.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.input_home > input {
+    width: 400px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+svg {
+    fill: #2f3676;
+    width: 45px;
+    height: 25px;
+}
+
