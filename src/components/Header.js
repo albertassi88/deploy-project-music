@@ -5,7 +5,6 @@ import '../style/Header.css';
 
 function Header() {
     const { setLoading } = useContext(TodoContext);
-
     function alterLoading() {
         setLoading(true)
     }
